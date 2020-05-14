@@ -15,10 +15,10 @@ else{
 <?php
 
 // MySQL Connection Information
-$servername = "172.105.27.17";
-$username = "ugate";
-$password = "uwind";
-$dbname = "4150";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 // POST variables
 $pname = ($_POST["pname"]);
